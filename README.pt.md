@@ -1,9 +1,9 @@
 # minilogo
-Um interpretador de mini logo escrito em MSX Basic
+Um mini interpretador de logo escrito em MSX Basic
 
 [![English](https://img.shields.io/badge/language-English-blue)](README.md) [![Português](https://img.shields.io/badge/language-Português-green)](README.pt.md)
 
-# O quê?
+# O quê é isso?
 
 Você usa comandos para mover uma tartaruga triangular na tela do seu computador e desenhar.
 
@@ -28,7 +28,7 @@ Execute o programa no seu MSX favorito. Ele aceita os seguintes comandos:
 
 # Por que as mensagens de erro estão em português se os comandos estão em inglês?
 
-Quem sabe? É assim que meu cérebro funciona.
+Sei lá. É como meu cérebro funciona.
 
 # O que vem depois?
 
