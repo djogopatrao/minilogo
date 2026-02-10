@@ -16,15 +16,15 @@ I woke up craving to write something. I like LOGO, I like BASIC, I like MSX, so 
 Run the program in your favorite MSX computer. It accepts the following commands:
 
 - qt: exit to BASIC
-- fw &lt;n&gt: Move the turtle forward n pixels
-- bk &lt;n&gt: Move the turtle back n pixels
-- rg &lt;n&gt: Turn the turtle right by n degrees
-- lf &lt;n&gt: Turn the turtle left by n degrees
-- pr &lt;w&gt: Print a single word in the screen
-- rp &lt;n&gt [ ... ]: repeat n times the commands inside []. currently does not support nesting
+- fw &lt;n&gt;: Move the turtle forward n pixels
+- bk &lt;n&gt;: Move the turtle back n pixels
+- rg &lt;n&gt;: Turn the turtle right by n degrees
+- lf &lt;n&gt;: Turn the turtle left by n degrees
+- pr &lt;w&gt;: Print a single word in the screen
+- rp &lt;n&gt; [ ... ]: repeat n times the commands inside []. currently does not support nesting
 - cl: clear the screen
-- dr &lt;n&gt: either turns on (1) or off (0) drawing
-- xy &lt;n&gt &lt;n&gt: move turtle to a position onscreen. won't affect the angle
+- dr &lt;n&gt;: either turns on (1) or off (0) drawing
+- xy &lt;n&gt; &lt;n&gt;: move turtle to a position onscreen. won't affect the angle
 
 # Why are the error messages in portuguese if the commands are in english?
 
