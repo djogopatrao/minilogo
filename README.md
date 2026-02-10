@@ -1,6 +1,8 @@
 # minilogo
 A mini logo interpreter written in MSX Basic
 
+[![English](https://img.shields.io/badge/language-English-blue)](README.md) [![Português](https://img.shields.io/badge/language-Português-green)](README.pt.md)
+
 # What?
 
 You use commands to move a triangular turtle on your computer screen and draw.
