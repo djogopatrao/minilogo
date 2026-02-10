@@ -16,15 +16,15 @@ Eu acordei com vontade de escrever algo. Gosto de LOGO, gosto de BASIC, gosto de
 Execute o programa no seu MSX favorito. Ele aceita os seguintes comandos:
 
 - qt: sair para o BASIC
-- fw <n>: Mover a tartaruga para frente n pixels
-- bk <n>: Mover a tartaruga para trás n pixels
-- rg <n>: Virar a tartaruga à direita n graus
-- lf <n>: Virar a tartaruga à esquerda n graus
-- pr <w>: Imprimir uma única palavra na tela
-- rp <n> [ ... ]: repetir n vezes os comandos dentro de []. atualmente não suporta aninhamento
+- fw &lt;n&gt;: Mover a tartaruga para frente n pixels
+- bk &lt;n&gt;: Mover a tartaruga para trás n pixels
+- rg &lt;n&gt;: Virar a tartaruga à direita n graus
+- lf &lt;n&gt;: Virar a tartaruga à esquerda n graus
+- pr &lt;w&gt;: Imprimir uma única palavra na tela
+- rp &lt;n&gt; [ ... ]: repetir n vezes os comandos dentro de []. atualmente não suporta aninhamento
 - cl: limpar a tela
-- dr <n>: liga (1) ou desliga (0) o desenho
-- xy <n> <n>: mover a tartaruga para uma posição na tela. não afeta o ângulo
+- dr &lt;n&gt;: liga (1) ou desliga (0) o desenho
+- xy &lt;n&gt; &lt;n&gt;: mover a tartaruga para uma posição na tela. não afeta o ângulo
 
 # Por que as mensagens de erro estão em português se os comandos estão em inglês?
 
