@@ -16,7 +16,7 @@ I woke up craving to write something. I like LOGO, I like BASIC, I like MSX, so 
 Run the program in your favorite MSX computer. It accepts the following commands:
 
 - qt: exit to BASIC
-- fw <n>: Move the turtle forward n pixels
+- fw **<n>**: Move the turtle forward n pixels
 - bk <n>: Move the turtle back n pixels
 - rg <n>: Turn the turtle right by n degrees
 - lf <n>: Turn the turtle left by n degrees
